@@ -1,13 +1,9 @@
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # Make a Laravel app respond to a slash command from Slack
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-slack-slash-command.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-slack-slash-command)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/spatie/laravel-slack-slash-command/master.svg?style=flat-square)](https://travis-ci.org/spatie/laravel-slack-slash-command)
 [![Quality Score](https://img.shields.io/scrutinizer/g/spatie/laravel-slack-slash-command.svg?style=flat-square)](https://scrutinizer-ci.com/g/spatie/laravel-slack-slash-command)
-[![StyleCI](https://styleci.io/repos/62377978/shield?branch=master)](https://styleci.io/repos/62377978)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-slack-slash-command.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-slack-slash-command)
 
 This package makes it easy to make your Laravel app respond to [Slack's Slash commands](https://api.slack.com/slash-commands). 
